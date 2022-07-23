@@ -1,22 +1,22 @@
 [
     {
-      "Titulo": "Dale una nueva oportunidad a los alimentos",
+      "Title": "Dale una nueva oportunidad a los alimentos",
       
-      "Contenido": "Algunos alimentos suelen perderse en las etapas de producción, poscosecha, procesamiento o distribución.Sin embargo, cuentan con todas las condiciones sanitarias para ser transformados y consumidos",
+      "Content": "Algunos alimentos suelen perderse en las etapas de producción, poscosecha, procesamiento o distribución.Sin embargo, cuentan con todas las condiciones sanitarias para ser transformados y consumidos",
       "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/ComoConservar.jpg"
       
     },
     {
-      "Titulo": "Reduce los desechos",
+      "Title": "Reduce los desechos",
   
-      "Contenido": "Planifica el menú de manera consiente. Almacena adecuadamente los alimentos.Calcula adecuadamente las cantidades. Aprovecha los alimentos para otra comida",
+      "Content": "Planifica el menú de manera consiente. Almacena adecuadamente los alimentos.Calcula adecuadamente las cantidades. Aprovecha los alimentos para otra comida",
       "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/Conservar2.jpg"
   
     },
     {
-      "Titulo": "Perfectamente Imperfectos",
+      "Title": "Perfectamente Imperfectos",
      
-      "Contenido": "fomenta el consumo de frutas y verduras con morfologia diistinta, pero mantiene todas sus propiedades de calidad y sabor, Esto contribuje a una agricultura sotenible y un consumo responsable",
+      "Content": "fomenta el consumo de frutas y verduras con morfologia diistinta, pero mantiene todas sus propiedades de calidad y sabor, Esto contribuje a una agricultura sotenible y un consumo responsable",
       "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/Receta1.png"
      
     }
