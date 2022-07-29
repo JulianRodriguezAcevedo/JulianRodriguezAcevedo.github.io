@@ -1,0 +1,40 @@
+[
+    {
+      "Name": "Paso1",
+      
+      "Details": "Cortarla ahuyama en cubos con cascara.Reservar las emillas.",
+      "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso1.jpg"
+      
+    },
+    {
+      "Name": "Paso2",
+  
+      "Details": " Cortar la zanahoria y el apio. Mezclar los vegetales.",
+      "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso2.jpg"
+  
+    },
+    {
+      "Name": "Paso3",
+     
+      "Details": " Dorar los vegetales en horno o en olla.Hasta lograr un tono  dorado.",
+      "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso3.jpg"
+     
+    },
+
+    {
+      "Name": "Paso4",
+     
+      "Details": "Agregar líquido.   • Cocinar durante 10    minutos y licuar. Agregar leche. Cocinar por 5 min y espesar con fécula de ser necesario",
+      "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso4.jpg"
+     
+    },
+    
+    {
+      "Name": "Paso5",
+     
+      "Details": "Servir y decorar con las semillas doradas.",
+      "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso5.jpg"
+     
+    }
+    
+  ]
