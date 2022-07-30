@@ -1,23 +1,75 @@
 [
-  {
-    "Name": "Almacene",
-    
-    "Details": "Almacene sus alimentos en refractarias....",
-    "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/ComoConservar.jpg"
-    
-  },
-  {
-    "Name": "Conserve",
+    {
+      "Name": "Almacene",
+      
+      "Intro": "Almacene sus alimentos en refractarias....",
+      "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/ComoConservar.jpg",
+      "Pasos":[
+        {
+          "step": "Paso1",
+          "Details": "Cortarla ahuyama en cubos con cascara.\nReservar las emillas.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso1.jpg"
+      
+        }
 
-    "Details": "Para conservar mejor las frutas y verduras emplee...",
-    "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/Conservar2.jpg"
+      ]
+      
+    },
 
-  },
-  {
-    "Name": "Receta",
-   
-    "Details": "Prepare la mejor pasta con ingredientes...",
-    "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/Receta1.png"
-   
-  }
-]
+    {
+      "Name": "Conserve",
+  
+      "Intro": "Para conservar mejor las frutas y verduras emplee...",
+      "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/Conservar2.jpg"
+  
+    },
+    {
+      "Name": "Receta",
+     
+      "Intro": "Deliciosa crema de Ahuyama...",
+      "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso5.jpg",
+      "Pasos":[
+        {
+          "Step": "Paso1",
+          "Details": "Cortar la ahuyama en cubos con cascara. \nReservar las emillas.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso1.jpg"
+      
+        },
+
+        {
+          "Step": "Paso2",
+      
+          "Details": " Cortar la zanahoria y el apio. \n Mezclar los vegetales.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso2.jpg"
+      
+        },
+        {
+          "Step": "Paso3",
+         
+          "Details": " Dorar los vegetales en horno o en olla Hasta lograr un tono  dorado.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso3.jpg"
+         
+        },
+    
+        {
+          "Step": "Paso4",
+         
+          "Details": "Agregar líquido.\n Cocinar durante 10    minutos y licuar.\n Agregar leche.\n Cocinar por 5 min y espesar con fécula de ser necesario",
+          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso4.jpg"
+         
+        },
+        
+        {
+          "Step": "Paso5",
+         
+          "Details": "Servir y decorar con las semillas doradas.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso5.jpg"
+          
+         
+        }
+    
+
+      ]
+     
+    }
+  ]
