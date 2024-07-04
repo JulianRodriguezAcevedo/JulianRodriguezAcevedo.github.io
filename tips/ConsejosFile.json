@@ -7,9 +7,22 @@
       "Pasos":[
         {
           "Step": "Paso1",
-          "Details": "Cortar la ahuyama en cubos con cascara.\nReservar las semillas.",
-          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso1.JPG"
+          "Details": "Las refractarias, generalmente hechas de vidrio, permiten mantener la frescura de los alimentos por más tiempo. El vidrio no retiene olores ni sabores, lo que garantiza que la comida se mantenga en óptimas condiciones sin alteraciones",
+          "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/refractaria1.JPG"
       
+        },
+
+        {
+          "Step": "Paso2",
+          "Details": " A diferencia de algunos plásticos, el vidrio no contiene químicos que puedan transferirse a los alimentos. Además, las refractarias son fáciles de limpiar y esterilizar, lo que reduce el riesgo de contaminación bacteriana",
+          "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/refractaria2.JPG"
+      
+        },
+        {
+          "Step": "Paso3",
+          "Details": " Almacenar la comida en refractarias es una opción práctica y saludable que ayuda a preservar la calidad de tus alimentos y te proporciona una gran versatilidad en la cocinaap",
+          "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/refractaria3.JPG"
+         
         }
 
       ]
@@ -31,7 +44,7 @@
       "Pasos":[
         {
           "Step": "Paso1",
-          "Details": "Cortar la ahuyama en cubos con cascara. \nReservar las emillas.",
+          "Details": "Cortar la ahuyama en cubos con cascara. \nReservar las semillas.",
           "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso1.JPG"
       
         },
