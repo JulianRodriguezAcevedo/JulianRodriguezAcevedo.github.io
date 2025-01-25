@@ -1,0 +1,84 @@
+[
+    {
+      "Name": "Store",
+      
+      "Intro": "Store your food in refractory containers....",
+      "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/ComoConservar.jpg",
+      "Pasos":[
+        {
+          "Step": "step 1",
+          "Details": "Refractory containers, usually made of glass, allow food to remain fresh for longer. Glass does not retain odors or flavors, ensuring that food remains in optimal conditions without alterations.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/refractaria1.JPG"
+      
+        },
+
+        {
+          "Step": "Step 2",
+          "Details": "Unlike some plastics, glass does not contain chemicals that can be transferred to food. In addition, refractory containers are easy to clean and sterilize, reducing the risk of bacterial contamination.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/refractaria2.JPG"
+      
+        },
+        {
+          "Step": "Step 3",
+          "Details": "Storing food in refractory containers is a practical and healthy option that helps preserve the quality of your food and provides you with great versatility in the kitchen.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/refractaria3.JPG"
+         
+        }
+
+      ]
+      
+    },
+
+    {
+      "Name": "Preserve",
+  
+      "Intro": "To better preserve fruits and vegetables, use...",
+      "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/Conservar2.jpg"
+  
+    },
+    {
+      "Name": "Recipe",
+     
+      "Intro": "Delicious pumpkin cream...",
+      "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso5.JPG",
+      "Pasos":[
+        {
+          "Step": "Step 1",
+          "Details": "Cut the pumpkin into cubes with the peel. \nReserve the seeds.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso1.JPG"
+      
+        },
+
+        {
+          "Step": "Step 2",
+          "Details": "Chop the carrot and celery. \n Mix the vegetables.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso2.JPG"
+      
+        },
+        {
+          "Step": "Step 3",
+          "Details": "Brown the vegetables in the oven or in a pot until they turn golden.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso3.JPG"
+         
+        },
+    
+        {
+          "Step": "Step 4",
+          "Details": "Add liquid.\n Cook for 10 minutes and blend.\n Add milk.\n Cook for 5 minutes and thicken with starch if necessary",
+          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso4.JPG"
+         
+        },
+        
+        {
+          "Step": "Step 5",
+          "Details": "Serve and decorate with the golden seeds.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso5.JPG"
+          
+         
+        }
+    
+
+      ]
+     
+    }
+  ]

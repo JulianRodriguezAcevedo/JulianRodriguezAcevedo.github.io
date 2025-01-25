@@ -1,0 +1,84 @@
+[
+    {
+      "Name": "Armazene",
+      
+      "Intro": "Armazene seus alimentos em recipientes refratários....",
+      "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/ComoConservar.jpg",
+      "Pasos":[
+        {
+          "Step": "Passo 1",
+          "Details": "Recipientes refratários, geralmente feitos de vidro, permitem que os alimentos permaneçam frescos por mais tempo. O vidro não retém odores nem sabores, garantindo que os alimentos permaneçam em ótimas condições sem alterações.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/refractaria1.JPG"
+      
+        },
+
+        {
+          "Step": "Passo 2",
+          "Details": "Ao contrário de alguns plásticos, o vidro não contém produtos químicos que podem ser transferidos para os alimentos. Além disso, os recipientes refratários são fáceis de limpar e esterilizar, reduzindo o risco de contaminação bacteriana.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/refractaria2.JPG"
+      
+        },
+        {
+          "Step": "Passo 3",
+          "Details": "Armazenar alimentos em recipientes refratários é uma opção prática e saudável que ajuda a conservar a qualidade dos alimentos e proporciona grande versatilidade na cozinha.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/refractaria3.JPG"
+         
+        }
+
+      ]
+      
+    },
+
+    {
+      "Name": "Conservar",
+  
+      "Intro": "Para melhor conservar frutas e vegetais, utilize...",
+      "Image": "https://JulianRodriguezAcevedo.github.io/tips/Images/Conservar2.jpg"
+  
+    },
+    {
+      "Name": "Receita",
+     
+      "Intro": "Delicioso creme de abóbora...",
+      "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso5.JPG",
+      "Pasos":[
+        {
+          "Step": "Passo 1",
+          "Details": "Corte a abóbora em cubos com casca. \nSalve as sementes.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso1.JPG"
+      
+        },
+
+        {
+          "Step": "Passo 2",
+          "Details": "Corte a cenoura e o aipo. \n Misture os vegetais.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso2.JPG"
+      
+        },
+        {
+          "Step": "Passo 3",
+          "Details": "Doure os vegetais no forno ou em uma panela até que fiquem dourados.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso3.JPG"
+         
+        },
+    
+        {
+          "Step": "Passo 4",
+          "Details": "Adicione o líquido.\n Cozinhe por 10 minutos e bata.\n Adicione o leite.\n Cozinhe por 5 minutos e engrosse com amido se necessário.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso4.JPG"
+         
+        },
+        
+        {
+          "Step": "Passo 5",
+          "Details": "Sirva e decore com as sementes douradas.",
+          "Image": "https://JulianRodriguezAcevedo.github.io/Recetas/Ahuyama/AhuyamaPaso5.JPG"
+          
+         
+        }
+    
+
+      ]
+     
+    }
+  ]
