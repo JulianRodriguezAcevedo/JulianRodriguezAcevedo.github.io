@@ -1,0 +1,102 @@
+[
+  {
+    "Title": "Plastic Recycling",
+    "Advice": "Wash and dry containers before placing them in the recycling bin to avoid contamination.",
+    "Image": "https://imagenes/reciclaje_plastico.jpg"
+  },
+  {
+    "Title": "Paper and Cardboard Recycling",
+    "Advice": "Make sure they are clean and dry before recycling. Do not mix dirty paper with other recyclables.",
+    "Image": "https://imagenes/reciclaje_papel_carton.jpg"
+  },
+  {
+    "Title": "Glass Recycling",
+    "Advice": "Separate glass by color (green, amber, clear) and do not include broken window or mirror glass, as they have different compositions.",
+    "Image": "https://imagenes/reciclaje_vidrio.jpg"
+  },
+  {
+    "Title": "Aluminum Recycling",
+    "Advice": "Crush aluminum cans to save space and place them in the appropriate container.",
+    "Image": "https://imagenes/reciclaje_aluminio.jpg"
+  },
+  {
+    "Title": "Electronics Recycling",
+    "Advice": "Take electronic devices to specialized e-waste recycling centers.",
+    "Image": "https://imagenes/reciclaje_electronicos.jpg"
+  },
+  {
+    "Title": "Battery Recycling",
+    "Advice": "Drop them off at specific recycling centers, as they contain toxic materials that pollute soil and water.",
+    "Image": "https://imagenes/reciclaje_baterias.jpg"
+  },
+  {
+    "Title": "Textile Recycling",
+    "Advice": "Donate clothing in good condition or reuse it for crafts or cleaning rags before discarding.",
+    "Image": "https://imagenes/reciclaje_textiles.jpg"
+  },
+  {
+    "Title": "Furniture Recycling",
+    "Advice": "If in good condition, you can restore, sell, or donate them to charitable organizations.",
+    "Image": "https://imagenes/reciclaje_muebles.jpg"
+  },
+  {
+    "Title": "Cooking Oil Recycling",
+    "Advice": "Do not pour it down the drain. Store it in a container and take it to collection points for biodiesel recycling.",
+    "Image": "https://imagenes/reciclaje_aceite.jpg"
+  },
+  {
+    "Title": "Organic Waste Recycling",
+    "Advice": "Compost food scraps and dry leaves to create natural fertilizer for plants.",
+    "Image": "https://imagenes/reciclaje_compostaje.jpg"
+  },
+  {
+    "Title": "Pollution Reduction",
+    "Advice": "Reduce water, air, and soil pollution by decreasing landfill waste.",
+    "Image": "https://imagenes/reduccion_contaminacion.jpg"
+  },
+  {
+    "Title": "Natural Resource Saving",
+    "Advice": "Save natural resources by reusing materials instead of extracting new ones.",
+    "Image": "https://imagenes/ahorro_recursos.jpg"
+  },
+  {
+    "Title": "Lower Energy Consumption",
+    "Advice": "Reduce energy consumption in the production of new products.",
+    "Image": "https://imagenes/ahorro_energia.jpg"
+  },
+  {
+    "Title": "Climate Change Reduction",
+    "Advice": "Help fight climate change by reducing greenhouse gas emissions.",
+    "Image": "https://imagenes/cambio_climatico.jpg"
+  },
+  {
+    "Title": "Boost to the Circular Economy",
+    "Advice": "Promote a circular economy by creating jobs in the recycling industry.",
+    "Image": "https://imagenes/economia_circular.jpg"
+  },
+  {
+    "Title": "Health Protection",
+    "Advice": "Prevent the accumulation of hazardous waste that can affect human health.",
+    "Image": "https://imagenes/proteccion_salud.jpg"
+  },
+  {
+    "Title": "Biodiversity Preservation",
+    "Advice": "Protect biodiversity by reducing the extraction of raw materials.",
+    "Image": "https://imagenes/preservacion_biodiversidad.jpg"
+  },
+  {
+    "Title": "Promotion of Sustainability",
+    "Advice": "Promote a culture of sustainability and environmental responsibility.",
+    "Image": "https://imagenes/sostenibilidad.jpg"
+  },
+  {
+    "Title": "Reduction of Toxic Emissions",
+    "Advice": "Reduce the need for waste incineration, lowering toxic gas emissions.",
+    "Image": "https://imagenes/emisiones_toxicas.jpg"
+  },
+  {
+    "Title": "Water Conservation",
+    "Advice": "Conserve water, as recycling materials like paper reduces the amount of water used in manufacturing.",
+    "Image": "https://imagenes/conservacion_agua.jpg"
+  }
+]

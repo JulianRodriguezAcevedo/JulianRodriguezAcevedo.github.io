@@ -1,0 +1,102 @@
+[
+  {
+    "Title": "Reciclagem de Plástico",
+    "Advice": "Lave e seque as embalagens antes de colocá-las no contêiner de reciclagem para evitar contaminação.",
+    "Image": "https://imagenes/reciclaje_plastico.jpg"
+  },
+  {
+    "Title": "Reciclagem de Papel e Papelão",
+    "Advice": "Certifique-se de que estejam limpos e secos antes de reciclá-los. Não misture papel sujo com outros recicláveis.",
+    "Image": "https://imagenes/reciclaje_papel_carton.jpg"
+  },
+  {
+    "Title": "Reciclagem de Vidro",
+    "Advice": "Separe os vidros por cor (verde, âmbar, transparente) e não inclua vidros quebrados de janelas ou espelhos, pois têm composições diferentes.",
+    "Image": "https://imagenes/reciclaje_vidrio.jpg"
+  },
+  {
+    "Title": "Reciclagem de Alumínio",
+    "Advice": "Amasse as latas de alumínio para economizar espaço e coloque-as no contêiner apropriado.",
+    "Image": "https://imagenes/reciclaje_aluminio.jpg"
+  },
+  {
+    "Title": "Reciclagem de Eletrônicos",
+    "Advice": "Leve os dispositivos eletrônicos a pontos de reciclagem especializados em resíduos eletrônicos (REEE).",
+    "Image": "https://imagenes/reciclaje_electronicos.jpg"
+  },
+  {
+    "Title": "Reciclagem de Baterias",
+    "Advice": "Deposite-as em centros de reciclagem específicos, pois contêm materiais tóxicos que contaminam o solo e a água.",
+    "Image": "https://imagenes/reciclaje_baterias.jpg"
+  },
+  {
+    "Title": "Reciclagem de Têxteis",
+    "Advice": "Doe roupas em bom estado ou reutilize-as em artesanato ou como panos de limpeza antes de descartá-las.",
+    "Image": "https://imagenes/reciclaje_textiles.jpg"
+  },
+  {
+    "Title": "Reciclagem de Móveis",
+    "Advice": "Se estiverem em bom estado, você pode restaurá-los, vendê-los ou doá-los a instituições de caridade.",
+    "Image": "https://imagenes/reciclaje_muebles.jpg"
+  },
+  {
+    "Title": "Reciclagem de Óleo de Cozinha",
+    "Advice": "Não o despeje no ralo. Armazene-o em um recipiente e leve-o a pontos de coleta para reciclagem em biodiesel.",
+    "Image": "https://imagenes/reciclaje_aceite.jpg"
+  },
+  {
+    "Title": "Reciclagem de Resíduos Orgânicos",
+    "Advice": "Faça compostagem com restos de comida e folhas secas para produzir adubo natural para plantas.",
+    "Image": "https://imagenes/reciclaje_compostaje.jpg"
+  },
+  {
+    "Title": "Redução da Poluição",
+    "Advice": "Reduza a poluição da água, do ar e do solo ao diminuir a quantidade de resíduos em aterros.",
+    "Image": "https://imagenes/reduccion_contaminacion.jpg"
+  },
+  {
+    "Title": "Economia de Recursos Naturais",
+    "Advice": "Economize recursos naturais reutilizando materiais em vez de extrair novos.",
+    "Image": "https://imagenes/ahorro_recursos.jpg"
+  },
+  {
+    "Title": "Menor Consumo de Energia",
+    "Advice": "Reduza o consumo de energia na produção de novos produtos.",
+    "Image": "https://imagenes/ahorro_energia.jpg"
+  },
+  {
+    "Title": "Redução das Mudanças Climáticas",
+    "Advice": "Ajuda a combater as mudanças climáticas reduzindo a emissão de gases de efeito estufa.",
+    "Image": "https://imagenes/cambio_climatico.jpg"
+  },
+  {
+    "Title": "Impulso à Economia Circular",
+    "Advice": "Promova uma economia circular, criando empregos na indústria da reciclagem.",
+    "Image": "https://imagenes/economia_circular.jpg"
+  },
+  {
+    "Title": "Proteção à Saúde",
+    "Advice": "Evite o acúmulo de resíduos perigosos que podem afetar a saúde humana.",
+    "Image": "https://imagenes/proteccion_salud.jpg"
+  },
+  {
+    "Title": "Preservação da Biodiversidade",
+    "Advice": "Proteja a biodiversidade ao reduzir a extração de matérias-primas.",
+    "Image": "https://imagenes/preservacion_biodiversidad.jpg"
+  },
+  {
+    "Title": "Promoção da Sustentabilidade",
+    "Advice": "Promova uma cultura de sustentabilidade e responsabilidade ambiental.",
+    "Image": "https://imagenes/sostenibilidad.jpg"
+  },
+  {
+    "Title": "Redução das Emissões Tóxicas",
+    "Advice": "Reduza a necessidade de incineração de resíduos, diminuindo a emissão de gases tóxicos.",
+    "Image": "https://imagenes/emisiones_toxicas.jpg"
+  },
+  {
+    "Title": "Conservação da Água",
+    "Advice": "Conserve a água, pois a reciclagem de materiais como o papel reduz a quantidade de água utilizada na fabricação.",
+    "Image": "https://imagenes/conservacion_agua.jpg"
+  }
+]
