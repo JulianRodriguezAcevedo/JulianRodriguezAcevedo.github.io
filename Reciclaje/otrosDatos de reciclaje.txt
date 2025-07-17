@@ -1,0 +1,159 @@
+
+  {
+    "Title": "Reducción de contaminación",
+    "Advice": "Reduce la contaminación del agua, aire y suelo al disminuir la cantidad de desechos en vertederos.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/reduccion_contaminacion.jpg"
+  },
+  {
+    "Title": "Ahorro de recursos naturales",
+    "Advice": "Ahorra recursos naturales al reutilizar materiales en lugar de extraer nuevos.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/ahorro_recursos.jpg"
+  },
+  {
+    "Title": "Menor consumo de energía",
+    "Advice": "Disminuye el consumo de energía en la producción de nuevos productos.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/ahorro_energia.jpg"
+  },
+  {
+    "Title": "Reducción del cambio climático",
+    "Advice": "Ayuda a combatir el cambio climático al reducir la emisión de gases de efecto invernadero.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/cambio_climatico.jpg"
+  },
+  {
+    "Title": "Impulso a la economía circular",
+    "Advice": "Fomenta una economía circular, creando empleos en la industria del reciclaje.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/economia_circular.jpg"
+  },
+  {
+    "Title": "Protección de la salud",
+    "Advice": "Evita la acumulación de desechos peligrosos que pueden afectar la salud humana.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/proteccion_salud.jpg"
+  },
+  {
+    "Title": "Preservación de la biodiversidad",
+    "Advice": "Protege la biodiversidad al reducir la extracción de materias primas.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/preservacion_biodiversidad.jpg"
+  },
+  {
+    "Title": "Promoción de la sostenibilidad",
+    "Advice": "Promueve una cultura de sostenibilidad y responsabilidad ambiental.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/sostenibilidad.jpg"
+  },
+  {
+    "Title": "Reducción de emisiones tóxicas",
+    "Advice": "Reduce la necesidad de incineración de residuos, disminuyendo la emisión de gases tóxicos.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/emisiones_toxicas.jpg"
+  },
+  {
+    "Title": "Conservación del agua",
+    "Advice": "Conserva el agua, ya que el reciclaje de materiales como el papel reduce la cantidad de agua utilizada en la fabricación.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/conservacion_agua.jpg"
+  }
+
+
+
+//Ingles:
+,
+  {
+    "Title": "Pollution Reduction",
+    "Advice": "Reduce water, air, and soil pollution by decreasing landfill waste.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/reduccion_contaminacion.jpg"
+  },
+  {
+    "Title": "Natural Resource Saving",
+    "Advice": "Save natural resources by reusing materials instead of extracting new ones.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/ahorro_recursos.jpg"
+  },
+  {
+    "Title": "Lower Energy Consumption",
+    "Advice": "Reduce energy consumption in the production of new products.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/ahorro_energia.jpg"
+  },
+  {
+    "Title": "Climate Change Reduction",
+    "Advice": "Help fight climate change by reducing greenhouse gas emissions.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/cambio_climatico.jpg"
+  },
+  {
+    "Title": "Boost to the Circular Economy",
+    "Advice": "Promote a circular economy by creating jobs in the recycling industry.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/economia_circular.jpg"
+  },
+  {
+    "Title": "Health Protection",
+    "Advice": "Prevent the accumulation of hazardous waste that can affect human health.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/proteccion_salud.jpg"
+  },
+  {
+    "Title": "Biodiversity Preservation",
+    "Advice": "Protect biodiversity by reducing the extraction of raw materials.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/preservacion_biodiversidad.jpg"
+  },
+  {
+    "Title": "Promotion of Sustainability",
+    "Advice": "Promote a culture of sustainability and environmental responsibility.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/sostenibilidad.jpg"
+  },
+  {
+    "Title": "Reduction of Toxic Emissions",
+    "Advice": "Reduce the need for waste incineration, lowering toxic gas emissions.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/emisiones_toxicas.jpg"
+  },
+  {
+    "Title": "Water Conservation",
+    "Advice": "Conserve water, as recycling materials like paper reduces the amount of water used in manufacturing.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/conservacion_agua.jpg"
+  }
+
+// portugués
+,
+  {
+    "Title": "Redução da Poluição",
+    "Advice": "Reduza a poluição da água, do ar e do solo ao diminuir a quantidade de resíduos em aterros.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/reduccion_contaminacion.jpg"
+  },
+  {
+    "Title": "Economia de Recursos Naturais",
+    "Advice": "Economize recursos naturais reutilizando materiais em vez de extrair novos.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/ahorro_recursos.jpg"
+  },
+  {
+    "Title": "Menor Consumo de Energia",
+    "Advice": "Reduza o consumo de energia na produção de novos produtos.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/ahorro_energia.jpg"
+  },
+  {
+    "Title": "Redução das Mudanças Climáticas",
+    "Advice": "Ajuda a combater as mudanças climáticas reduzindo a emissão de gases de efeito estufa.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/cambio_climatico.jpg"
+  },
+  {
+    "Title": "Impulso à Economia Circular",
+    "Advice": "Promova uma economia circular, criando empregos na indústria da reciclagem.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/economia_circular.jpg"
+  },
+  {
+    "Title": "Proteção à Saúde",
+    "Advice": "Evite o acúmulo de resíduos perigosos que podem afetar a saúde humana.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/proteccion_salud.jpg"
+  },
+  {
+    "Title": "Preservação da Biodiversidade",
+    "Advice": "Proteja a biodiversidade ao reduzir a extração de matérias-primas.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/preservacion_biodiversidad.jpg"
+  },
+  {
+    "Title": "Promoção da Sustentabilidade",
+    "Advice": "Promova uma cultura de sustentabilidade e responsabilidade ambiental.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/sostenibilidad.jpg"
+  },
+  {
+    "Title": "Redução das Emissões Tóxicas",
+    "Advice": "Reduza a necessidade de incineração de resíduos, diminuindo a emissão de gases tóxicos.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/emisiones_toxicas.jpg"
+  },
+  {
+    "Title": "Conservação da Água",
+    "Advice": "Conserve a água, pois a reciclagem de materiais como o papel reduz a quantidade de água utilizada na fabricação.",
+    "Image": "https://JulianRodriguezAcevedo.github.io/Reciclaje/Images/conservacion_agua.jpg"
+  }
